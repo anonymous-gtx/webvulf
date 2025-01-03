@@ -36,7 +36,7 @@ pip install dnspython requests
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/WebVulf-GUI.git
+   git clone https://github.com/anonymous-gtx/WebVulf-GUI.git
    cd WebVulf-GUI
    ```
    
