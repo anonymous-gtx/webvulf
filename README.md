@@ -2,20 +2,6 @@ Here's a sample **README.md** file for your project:
 
 ---
 
-__        __   _  __     __     _  __   _           
-\ \      / /__| |_\ \   / /   _| |/ _| | |__  _   _ 
- \ \ /\ / / _ \ '_ \ \ / / | | | | |_  | '_ \| | | |
-  \ V  V /  __/ |_) \ V /| |_| | |  _| | |_) | |_| |
-   \_/\_/ \___|_.__/ \_/  \__,_|_|_|   |_.__/ \__, |
-                                              |___/ 
-                                                               _        
-  __ _ _ __   ___  _ __  _   _ _ __ ___   ___  _   _ ___  __ _| |___  __
- / _` | '_ \ / _ \| '_ \| | | | '_ ` _ \ / _ \| | | / __|/ _` | __\ \/ /
-| (_| | | | | (_) | | | | |_| | | | | | | (_) | |_| \__ \ (_| | |_ >  < 
- \__,_|_| |_|\___/|_| |_|\__, |_| |_| |_|\___/ \__,_|___/\__, |\__/_/\_\
-                         |___/                           |___/          
-
-
 # WebVulf GUI/CLI
 
 A **Web Vulnerability Assessment Tool** with a user-friendly GUI, built using Python and `tkinter`. This application allows users to test for CORS vulnerabilities, perform DNS enumeration, and conduct subdomain enumeration with ease. It also has a CLI version of it.
