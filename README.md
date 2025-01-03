@@ -1,6 +1,7 @@
 # WebVulf GUI/CLI
 
 A **Web Vulnerability Assessment Tool** with a user-friendly GUI, built using Python and `tkinter`. This application allows users to test for CORS vulnerabilities, perform DNS enumeration, and conduct subdomain enumeration with ease. It also has a CLI version of it.
+WebVulf also has a linux executable so anyone can run this on their debian based x64 base linux OS. One can create their own executable for their OS by using `pyinstaller` shown below in this document.
 
 ## Features
 
